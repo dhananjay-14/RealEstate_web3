@@ -1,5 +1,9 @@
 # Real Estate NFT DApp
 
+#Description
+
+A decentralized real estate platform using blockchain technology, allowing users to list and sell their properties. Implemented smart contract functionality for secure downpayment processing and utilized web3 technology for seamless communication between all parties, including appraisers and lenders. Platform also featured an automated system for loan processing and approval, streamlining the property purchasing process for all users.
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
